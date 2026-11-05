@@ -15,6 +15,11 @@
 
 ---
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
 ## What is OpenBastion?
 
 **OpenBastion** is an open-source initiative to build a modern, cloud-native **Privileged Access Management (PAM)** platform for securing, controlling, and auditing privileged access across infrastructure, applications, and cloud environments.
