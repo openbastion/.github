@@ -8,6 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
+    name: Generates assets/github-metrics.svg
     runs-on: ubuntu-latest
     environment: 
       name: production
@@ -21,6 +22,7 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             filename: assets/github-metrics.svg
             # Options
+            user: ${{ github.organization || github.repository_owner }}
             template: classic
             base: header, activity, community, repositories, metadata
             config_timezone: Europe/Paris

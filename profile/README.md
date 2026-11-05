@@ -1,13 +1,18 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=OpenBastion%20-%20PAM&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <!-- Replace this placeholder with the approved OpenBastion logo asset when available. -->
+<!-- https://github.com/nooblk-98/nooblk-98/blob/main/README.md -->
 # OpenBastion
 
 ### Open-source Privileged Access Management for the Zero Trust era
+<p><em>Secure privileged access. Protect every session. Trust nothing by default.</em></p>
 
-**Secure privileged access. Protect every session. Trust nothing by default.**
+[![Website](https://img.shields.io/badge/Website-itsnooblk.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://openbastion.github.io)
+[![Email](https://img.shields.io/badge/Email-eldorplus@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldorplus@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-View%20All-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://openbastion.github.io/documentation)
 
-[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/openbastion/.github/blob/main/LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/license-agpl-.0-blue.svg)](https://github.com/openbastion/.github/blob/main/LICENSE)
 [![Open Source](https://img.shields.io/badge/open-source-community-brightgreen.svg)](https://github.com/openbastion)
 [![Status](https://img.shields.io/badge/status-early%20development-orange.svg)](https://github.com/openbastion)
 
@@ -15,8 +20,8 @@
 
 ---
 
-<picture>
-  <img src="assets/github-metrics.svg" alt="Metrics">
+<picture align="center">
+  <img src="/assets/github-metrics.svg" alt="Metrics">
 </picture>
 
 
@@ -124,3 +129,5 @@ OpenBastion's intended default license is [Apache-2.0](https://github.com/openba
 *Building a more secure and transparent future for privileged access management.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=13&fontColor=fff&animation=twinkling" width="100%"/>
