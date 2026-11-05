@@ -20,11 +20,11 @@ jobs:
             # Your GitHub token
             token: ${{ secrets.METRICS_TOKEN }}
             filename: assets/github-metrics.svg
-          # Options
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_notable: yes
+            # Options
+            template: classic
+            base: header, activity, community, repositories, metadata
+            config_timezone: Europe/Paris
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: half-year
+            plugin_lines: yes
+            plugin_notable: yes
