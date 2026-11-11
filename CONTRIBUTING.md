@@ -103,7 +103,7 @@ Opening a pull request does not guarantee acceptance. Maintainers are responsibl
 
 ## Licensing
 
-By submitting a contribution, you agree that it may be distributed under the license applicable to the target repository. OpenBastion's intended default license is Apache-2.0; always check the target repository's `LICENSE` file before contributing.
+By submitting a contribution, you agree that it may be distributed under the license applicable to the target repository. OpenBastion's organization-wide default license is AGPL-3.0-only; always check the target repository's `LICENSE` file and any file-specific notices before contributing.
 
 You retain copyright in your contributions. Do not submit material that you do not have the right to contribute. If a contribution includes third-party code or assets, disclose their origin and license before submission.
 

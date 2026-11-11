@@ -1,13 +1,16 @@
 # License
 
-OpenBastion intends to distribute its original software under the **Apache License 2.0**.
+OpenBastion is licensed under the **GNU Affero General Public License v3.0 only**.
 
-The authoritative license text is provided in [`LICENSE`](LICENSE) in this repository and is available at:
+- SPDX identifier: `AGPL-3.0-only`
+- Canonical license text: [`LICENSE`](./LICENSE)
+- Official license: <https://www.gnu.org/licenses/agpl-3.0.html>
 
-<https://www.apache.org/licenses/LICENSE-2.0>
+The AGPL-3.0 is a strong copyleft license designed for network-accessible
+software. Under section 13, when a modified version supports remote network
+interaction, its users must be offered access to the Corresponding Source
+of that version.
 
-Unless a file or repository explicitly states otherwise, contributions are intended to be released under Apache-2.0, subject to the license and notices in the target repository.
-
-Third-party dependencies, trademarks, logos, and other assets may be subject to separate terms. See their respective notices and licenses.
-
-**Important:** GitHub and many tooling ecosystems detect licenses more reliably from a root-level file named `LICENSE` or `LICENSE.txt`. Keep that file alongside this explanatory `LICENSE.md`.
+The root-level `LICENSE` file contains the complete GNU AGPL version 3 text.
+This license notice applies to OpenBastion contributions in this organization
+unless a repository or file explicitly declares a different license.
