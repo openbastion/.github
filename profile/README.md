@@ -118,7 +118,7 @@ Security-related contributions are especially welcome when accompanied by tests,
 
 ## License
 
-OpenBastion's intended default license is [Apache-2.0](https://github.com/openbastion/.github/blob/main/LICENSE), subject to the license declared in each repository.
+OpenBastion's organization-wide default license is [GNU AGPL-3.0-only](https://github.com/openbastion/.github/blob/main/LICENSE), subject to any explicit license declaration in an individual repository or file.
 
 ---
 
